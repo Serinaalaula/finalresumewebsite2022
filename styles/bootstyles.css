@@ -1,0 +1,49 @@
+body{
+    background-color: azure; 
+    resize:both; 
+}
+
+.headCenter{
+    text-align:center;
+}
+
+.TabLeft{
+    padding-left: 100px;
+    padding-right: 110px;
+}
+
+.margins{
+    padding-left: 100px;
+    padding-right: 100px;}
+
+.changecolor{
+    color:beige;
+}
+
+.changefont{
+    font-style:italic;
+}
+
+.fontsize{
+    font-size: .7cm;
+}
+
+.colorblue{
+    color:darkcyan;
+}
+
+
+.footer{
+    bottom: 5px;
+    height: 50px;
+    left: 5px;
+    right: 5px;
+    position: fixed;
+}
+        
+.header{
+    top:5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+}

@@ -1,0 +1,30 @@
+/* this will be applied to the about and index pages*/
+
+h1{
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.custom1{
+  background-color:tan;
+ /* background-image: url('https://images8.alphacoders.com/690/690881.jpg'); */
+}
+
+/* need to change 4 things, sizing, fonts, etc*/
+li{
+    padding-bottom:10px;
+}
+.intro{
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+.paddingSpace{
+    padding: 20px;
+}
+
+.fontsize{
+    font-size: large;
+}
+
+.colorblue{
+    color:darkcyan;
+}
+
